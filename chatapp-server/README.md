@@ -16,7 +16,7 @@ This is the backend server for the ChatApp application, built using TypeScript a
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/CubeStar1/QuantumChat.git
+   git clone https://github.com/arsh-mohania-00/Quantum-Key-Distribution-QKD-Messenger.git
    cd chatapp-server
    ```
 
