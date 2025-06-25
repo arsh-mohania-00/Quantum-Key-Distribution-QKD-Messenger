@@ -19,7 +19,7 @@ This is the frontend application for Quantum Chat, built with Svelte. It provide
 
 1. Clone the repository if you haven't already:
    ```bash
-   git clone https://github.com/CubeStar1/QuantumChat.git
+   git clone https://github.com/arsh-mohania-00/Quantum-Key-Distribution-QKD-Messenger.git
    ```
 
 2. Navigate to the frontend directory:
