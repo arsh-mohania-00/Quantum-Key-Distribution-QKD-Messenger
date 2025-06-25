@@ -17,7 +17,7 @@ The server includes the following APIs:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/CubeStar1/QuantumChat.git
+   git clone https://github.com/arsh-mohania-00/Quantum-Key-Distribution-QKD-Messenger.git
    cd qkd-server
    ```
 
